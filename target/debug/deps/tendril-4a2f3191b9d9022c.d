@@ -1,0 +1,11 @@
+D:\dev\nav\target\debug\deps\tendril-4a2f3191b9d9022c.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\fmt.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\stream.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\buf32.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\tendril.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\utf8_decode.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\util.rs
+
+D:\dev\nav\target\debug\deps\libtendril-4a2f3191b9d9022c.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\fmt.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\stream.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\buf32.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\tendril.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\utf8_decode.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\util.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\fmt.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\stream.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\buf32.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\tendril.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\utf8_decode.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tendril-0.4.3\src\util.rs:

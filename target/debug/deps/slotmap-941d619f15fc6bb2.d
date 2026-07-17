@@ -1,0 +1,11 @@
+D:\dev\nav\target\debug\deps\slotmap-941d619f15fc6bb2.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\basic.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\dense.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\hop.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\secondary.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\sparse_secondary.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\util.rs
+
+D:\dev\nav\target\debug\deps\libslotmap-941d619f15fc6bb2.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\basic.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\dense.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\hop.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\secondary.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\sparse_secondary.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\util.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\basic.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\dense.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\hop.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\secondary.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\sparse_secondary.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.1.1\src\util.rs:

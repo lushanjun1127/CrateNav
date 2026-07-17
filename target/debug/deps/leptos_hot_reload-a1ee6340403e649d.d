@@ -1,0 +1,9 @@
+D:\dev\nav\target\debug\deps\leptos_hot_reload-a1ee6340403e649d.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\diff.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\node.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\parsing.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\patch.js
+
+D:\dev\nav\target\debug\deps\libleptos_hot_reload-a1ee6340403e649d.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\diff.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\node.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\parsing.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\patch.js
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\diff.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\node.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\parsing.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\leptos_hot_reload-0.7.8\src\patch.js:

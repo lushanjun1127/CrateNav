@@ -1,0 +1,539 @@
+   0.658331000s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree_rust"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("pintree_rust", ["cdylib", "rlib"], "D:\\dev\\nav\\src\\lib.rs", Edition2021) }
+   0.658432700s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree_rust"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-90d2de2887fe5e7b\lib-pintree_rust`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.715410200s  INFO prepare_target{force=false package_id=leptos v0.6.15 target="leptos"}: cargo::core::compiler::fingerprint: fingerprint error for leptos v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos-0.6.15\\src\\lib.rs", Edition2021) }
+   0.715472000s  INFO prepare_target{force=false package_id=leptos v0.6.15 target="leptos"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos-0c28b7087ea51114\lib-leptos`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.719929000s  INFO prepare_target{force=false package_id=leptos_dom v0.6.15 target="leptos_dom"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_dom v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_dom", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_dom-0.6.15\\src\\lib.rs", Edition2021) }
+   0.719963300s  INFO prepare_target{force=false package_id=leptos_dom v0.6.15 target="leptos_dom"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_dom-156ac887558a8d60\lib-leptos_dom`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.721751600s  INFO prepare_target{force=false package_id=leptos_reactive v0.6.15 target="leptos_reactive"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_reactive v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_reactive", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_reactive-0.6.15\\src\\lib.rs", Edition2021) }
+   0.721766800s  INFO prepare_target{force=false package_id=leptos_reactive v0.6.15 target="leptos_reactive"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_reactive-85ff8e6c6a7c5cda\lib-leptos_reactive`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.724064400s  INFO prepare_target{force=false package_id=server_fn v0.6.15 target="server_fn"}: cargo::core::compiler::fingerprint: fingerprint error for server_fn v0.6.15/Check { test: false }/TargetInner { ..: lib_target("server_fn", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\server_fn-0.6.15\\src\\lib.rs", Edition2021) }
+   0.724078200s  INFO prepare_target{force=false package_id=server_fn v0.6.15 target="server_fn"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\server_fn-ac3ac806e1845c09\lib-server_fn`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.727906800s  INFO prepare_target{force=false package_id=server_fn_macro_default v0.6.15 target="server_fn_macro_default"}: cargo::core::compiler::fingerprint: fingerprint error for server_fn_macro_default v0.6.15/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("server_fn_macro_default", ["proc-macro"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\server_fn_macro_default-0.6.15\\src\\lib.rs", Edition2021) }
+   0.727921800s  INFO prepare_target{force=false package_id=server_fn_macro_default v0.6.15 target="server_fn_macro_default"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\server_fn_macro_default-ccf4ff98d0ebd94e\lib-server_fn_macro_default`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.728230000s  INFO prepare_target{force=false package_id=server_fn_macro v0.6.15 target="server_fn_macro"}: cargo::core::compiler::fingerprint: fingerprint error for server_fn_macro v0.6.15/Build/TargetInner { ..: lib_target("server_fn_macro", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\server_fn_macro-0.6.15\\src\\lib.rs", Edition2021) }
+   0.728243100s  INFO prepare_target{force=false package_id=server_fn_macro v0.6.15 target="server_fn_macro"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\server_fn_macro-a06eb973e5fab876\lib-server_fn_macro`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.735969400s  INFO prepare_target{force=false package_id=leptos_macro v0.6.15 target="leptos_macro"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_macro v0.6.15/Build/TargetInner { for_host: true, proc_macro: true, ..: lib_target("leptos_macro", ["proc-macro"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_macro-0.6.15\\src\\lib.rs", Edition2021) }
+   0.736017500s  INFO prepare_target{force=false package_id=leptos_macro v0.6.15 target="leptos_macro"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_macro-13917735c312bf90\lib-leptos_macro`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.746853500s  INFO prepare_target{force=false package_id=leptos_server v0.6.15 target="leptos_server"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_server v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_server", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_server-0.6.15\\src\\lib.rs", Edition2021) }
+   0.746878500s  INFO prepare_target{force=false package_id=leptos_server v0.6.15 target="leptos_server"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_server-13bd59948465acf8\lib-leptos_server`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.760372100s  INFO prepare_target{force=false package_id=leptos_axum v0.6.15 target="leptos_axum"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_axum v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_axum", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_axum-0.6.15\\src\\lib.rs", Edition2021) }
+   0.760397500s  INFO prepare_target{force=false package_id=leptos_axum v0.6.15 target="leptos_axum"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_axum-0086133054d15e4d\lib-leptos_axum`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.761376400s  INFO prepare_target{force=false package_id=leptos_integration_utils v0.6.15 target="leptos_integration_utils"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_integration_utils v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_integration_utils", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_integration_utils-0.6.15\\src\\lib.rs", Edition2021) }
+   0.761393700s  INFO prepare_target{force=false package_id=leptos_integration_utils v0.6.15 target="leptos_integration_utils"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_integration_utils-eca5ee378ff0c3c6\lib-leptos_integration_utils`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.762530100s  INFO prepare_target{force=false package_id=leptos_meta v0.6.15 target="leptos_meta"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_meta v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_meta", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_meta-0.6.15\\src\\lib.rs", Edition2021) }
+   0.762545500s  INFO prepare_target{force=false package_id=leptos_meta v0.6.15 target="leptos_meta"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_meta-93ca836c29ffd7a9\lib-leptos_meta`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.763553800s  INFO prepare_target{force=false package_id=leptos_router v0.6.15 target="leptos_router"}: cargo::core::compiler::fingerprint: fingerprint error for leptos_router v0.6.15/Check { test: false }/TargetInner { ..: lib_target("leptos_router", ["lib"], "C:\\Users\\Administrator\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\leptos_router-0.6.15\\src\\lib.rs", Edition2021) }
+   0.763572800s  INFO prepare_target{force=false package_id=leptos_router v0.6.15 target="leptos_router"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\leptos_router-30100ef5e376e8dc\lib-leptos_router`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.806923000s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree_rust"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("pintree_rust", ["cdylib", "rlib"], "D:\\dev\\nav\\src\\lib.rs", Edition2021) }
+   0.806947600s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree_rust"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-4e1e1b23dfb91e54\test-lib-pintree_rust`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.809060200s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree-rust"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: false }/TargetInner { name: "pintree-rust", doc: true, ..: with_path("D:\\dev\\nav\\src\\main.rs", Edition2021) }
+   0.809087200s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree-rust"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-0013b7465efad0ff\bin-pintree-rust`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.811064400s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree-rust"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: true }/TargetInner { name: "pintree-rust", doc: true, ..: with_path("D:\\dev\\nav\\src\\main.rs", Edition2021) }
+   0.811078600s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="pintree-rust"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-7b89717a399c9b8d\test-bin-pintree-rust`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.813047500s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="test_db_connection"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: false }/TargetInner { name: "test_db_connection", doc: true, ..: with_path("D:\\dev\\nav\\test_db_connection.rs", Edition2021) }
+   0.813072000s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="test_db_connection"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-e4ae0c151e737550\bin-test_db_connection`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.816118100s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="test_db_connection"}: cargo::core::compiler::fingerprint: fingerprint error for pintree-rust v0.1.0 (D:\dev\nav)/Check { test: true }/TargetInner { name: "test_db_connection", doc: true, ..: with_path("D:\\dev\\nav\\test_db_connection.rs", Edition2021) }
+   0.816149000s  INFO prepare_target{force=false package_id=pintree-rust v0.1.0 (D:\dev\nav) target="test_db_connection"}: cargo::core::compiler::fingerprint:     err: failed to read `D:\dev\nav\target\debug\.fingerprint\pintree-rust-2253d40f23ceb810\test-bin-test_db_connection`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   Compiling server_fn_macro v0.6.15
+    Checking leptos_reactive v0.6.15
+error: could not compile `server_fn_macro` (lib) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `leptos_reactive` (lib) due to 1 previous error

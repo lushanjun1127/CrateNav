@@ -1,0 +1,8 @@
+D:\dev\nav\target\debug\deps\drain_filter_polyfill-70de2521b2deb772.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\copypasted_impl.rs
+
+D:\dev\nav\target\debug\deps\libdrain_filter_polyfill-70de2521b2deb772.rlib: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\copypasted_impl.rs
+
+D:\dev\nav\target\debug\deps\libdrain_filter_polyfill-70de2521b2deb772.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\copypasted_impl.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\drain_filter_polyfill-0.1.3\src\copypasted_impl.rs:

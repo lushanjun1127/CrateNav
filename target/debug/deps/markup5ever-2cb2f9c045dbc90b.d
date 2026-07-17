@@ -1,0 +1,15 @@
+D:\dev\nav\target\debug\deps\markup5ever-2cb2f9c045dbc90b.d: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\data\mod.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\mod.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\tree_builder.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\serialize.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\buffer_queue.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\smallcharset.rs D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/generated.rs D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/named_entities.rs
+
+D:\dev\nav\target\debug\deps\libmarkup5ever-2cb2f9c045dbc90b.rmeta: C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\lib.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\data\mod.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\mod.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\tree_builder.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\serialize.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\buffer_queue.rs C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\smallcharset.rs D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/generated.rs D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/named_entities.rs
+
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\data\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\interface\tree_builder.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\serialize.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\buffer_queue.rs:
+C:\Users\Administrator\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\markup5ever-0.11.0\util\smallcharset.rs:
+D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/generated.rs:
+D:\dev\nav\target\debug\build\markup5ever-22906157934b60e2\out/named_entities.rs:
+
+# env-dep:OUT_DIR=D:\\dev\\nav\\target\\debug\\build\\markup5ever-22906157934b60e2\\out

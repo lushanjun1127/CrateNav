@@ -1,0 +1,1 @@
+fn(ActionFormProps<(std::string::String, std::option::Option<std::string::String>)>) -> impl leptos::IntoView {leptos_router::ActionForm::<(std::string::String, std::option::Option<std::string::String>)>}
