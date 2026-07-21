@@ -1,10 +1,9 @@
 # 📦 CrateNav - Personal Bookmark Navigation Dashboard
 
 <p align="center">
-  <!-- 动态数据徽章 -->
-  <a href="LICENSE"><img src="https://shields.io" alt="License"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="Repo Size"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="Top Language"></a>
+  <img src="https://shields.io" alt="License">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Language">
 </p>
 
 <p align="center">
